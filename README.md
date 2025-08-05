@@ -10,7 +10,7 @@
 ### About Me
 
 Interdisciplinary professional with 3+ years of experience in:
-- Digital Marketing & Media Campaigns  
+- Digital Strategy & Technology-Driven Campaigns 
 - DevOps & Automation (CI/CD, Docker, GitHub Actions)  
 - System Administration (Linux, VoIP, CRM, Infrastructure)
 

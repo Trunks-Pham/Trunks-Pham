@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm  Pham Minh Thao "Trunks Pham"</h1>
+<h1 align
+="center">Hi, I'm  Pham Minh Thao "Trunks Pham"</h1>
 
 <p align="center">
   <strong>Chief Digital Officer (CDO)</strong> | Digital Transformation | DevOps | Strategy & Innovation  
@@ -13,8 +14,11 @@ Interdisciplinary professional with 3+ years of experience in:
 - DevOps & Automation (CI/CD, Docker, GitHub Actions)  
 - System Administration (Linux, VoIP, CRM, Infrastructure)
 
-Studying **International Business** at University of Economics Ho Chi Minh City | UEH  
-Holder of **HND in Software Engineering** – VTC Academy | VTC Information Technology And Design Academy
+### Education & Qualifications
+
+**Master of Business Administration (MBA) Graduate**, European Open University
+Pursuing **Bachelor’s Degree in International Business** at University of Economics Ho Chi Minh City | UEH  
+Holder of **Higher National Diploma (HND) in Software Engineering** – VTC Academy | VTC Information Technology And Design Academy
 
 ---
 

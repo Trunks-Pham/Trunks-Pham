@@ -26,7 +26,7 @@ Interdisciplinary professional with 3+ years of experience in:
 
 | Category        | Tools & Technologies |
 |----------------|----------------------|
-| **Frontend**   | ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white) |
+| **Frontend**   | ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)|
 | **Backend**    | ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) |
 | **Database**   | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
 | **Infrastructure** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Virtual Machines](https://img.shields.io/badge/-Virtual_Machines-FF6C37?logo=vmware&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI/CD-003545?logo=githubactions&logoColor=white) |

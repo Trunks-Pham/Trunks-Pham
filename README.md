@@ -16,7 +16,7 @@ Interdisciplinary professional with 3+ years of experience in:
 
 ### Education & Qualifications
 
-**Master of Business Administration (MBA) Graduate**, European Open University
+**Master of Business Administration (MBA) Graduate**, European Open University  
 Pursuing **Bachelor’s Degree in International Business** at University of Economics Ho Chi Minh City | UEH  
 Holder of **Higher National Diploma (HND) in Software Engineering** – VTC Academy | VTC Information Technology And Design Academy
 

@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Pham Minh ThaPhạmo</h1>
+<h1 align="center">👋 Hi, I'm Pham Minh Thao "Trunks Pham" </h1>
 
 <p align="center">
   <strong>Chief Digital Officer (CDO)</strong> | Digital Transformation | DevOps | Strategy & Innovation  

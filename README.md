@@ -13,8 +13,8 @@ Interdisciplinary professional with 3+ years of experience in:
 - DevOps & Automation (CI/CD, Docker, GitHub Actions)  
 - System Administration (Linux, VoIP, CRM, Infrastructure)
 
-Studying **International Business** at University of Economics HCMC  
-Holder of **HND in Software Engineering** – VTC Academy
+Studying **International Business** at University of Economics Ho Chi Minh City | UEH  
+Holder of **HND in Software Engineering** – VTC Academy | VTC Information Technology And Design Academy
 
 ---
 

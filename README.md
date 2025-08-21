@@ -39,7 +39,8 @@ Interdisciplinary professional with 3+ years of experience in:
 
 ### Career Highlights
 
-- CDO @ Golden Toad – Leading enterprise-wide digital strategy  
+- Fractional Chief of Staff (Brand Marketing & CEO Support) | F&B Growth Solutions
+- VP / Deputy General Director @ Golden Toad – Leading enterprise-wide digital strategy  
 - Created scalable platforms using SpringBoot, PostgreSQL, and Docker  
 - Media Project Lead at VTC Academy  
 - Collaborated with Timo Digital Bank and BlueBioTechpreneurs EU  

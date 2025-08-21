@@ -39,7 +39,7 @@ Interdisciplinary professional with 3+ years of experience in:
 
 ### Career Highlights
 
-- Fractional Chief of Staff (Brand Marketing & CEO Support) | F&B Growth Solutions
+- Fractional Chief of Staff (Brand Marketing & CEO Support) | F&B Growth Solutions @ Lợp Lá Cà phê
 - VP / Deputy General Director @ Golden Toad – Leading enterprise-wide digital strategy  
 - Created scalable platforms using SpringBoot, PostgreSQL, and Docker  
 - Media Project Lead at VTC Academy  

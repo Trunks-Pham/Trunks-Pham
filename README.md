@@ -2,7 +2,7 @@
 ="center">Hi, I'm  Pham Minh Thao "Trunks Pham"</h1>
 
 <p align="center">
-  <strong>Chief Digital Officer (CDO)</strong> | Digital Transformation | DevOps | Strategy & Innovation  
+  <strong>Multidisciplinary Leader @ Digital Marketing & Corporate Innovation | Investor & Advisor  
 </p>
 
 ---

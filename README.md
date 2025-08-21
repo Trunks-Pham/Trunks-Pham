@@ -2,7 +2,7 @@
 ="center">Hi, I'm  Pham Minh Thao "Trunks Pham"</h1>
 
 <p align="center">
-  <strong>Multidisciplinary Leader @ Digital Marketing & Corporate Innovation | Investor & Advisor  
+  <strong>Multidisciplinary Leader @ Digital Marketing & Corporate Innovation | Investor & Advisor  <\strong>
 </p>
 
 ---

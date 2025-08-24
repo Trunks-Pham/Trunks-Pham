@@ -1,9 +1,9 @@
 <h1 align
 ="center">Hi, I'm  Pham Minh Thao "Trunks Pham"</h1>
 
-<p align="center">
-  <strong>Multidisciplinary Leader @ Digital Marketing & Corporate Innovation | Investor & Advisor
-</p>
+<h3 align="center">
+  <strong>Multidisciplinary Engineer @ DevOps, System Design & App Development
+</h3>
 
 ---
 

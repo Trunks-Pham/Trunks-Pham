@@ -13,6 +13,8 @@ Interdisciplinary professional with 3+ years of experience in:
 - Digital Strategy & Technology-Driven Campaigns 
 - DevOps & Automation (CI/CD, Jenkins, Docker, GitHub Actions)  
 - System Administration (Linux, VoIP, CRM, Infrastructure)
+- Frontend & Backend Development (Web Applications & APIs)
+- Mobile App Development (iOS & Android, Cross-Platform Frameworks)
 
 ### Education & Qualifications
 

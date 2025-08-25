@@ -9,7 +9,7 @@
 
 ### About Me
 
-Interdisciplinary professional with 3+ years of experience in:
+Interdisciplinary professional with 1+ years of experience in:
 - Digital Strategy & Technology-Driven Campaigns 
 - DevOps & Automation (CI/CD, Jenkins, Docker, GitHub Actions)  
 - System Administration (Linux, VoIP, CRM, Infrastructure)

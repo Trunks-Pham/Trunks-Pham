@@ -18,9 +18,9 @@ Interdisciplinary professional with 1+ years of experience in:
 
 ### Education & Qualifications
 
-- **Master of Business Administration (MBA) Graduate**, European Open University  
 - Pursuing **Bachelor’s Degree in International Business** at University of Economics Ho Chi Minh City | UEH  
 - Holder of **Diploma in Software Engineering**, VTC Academy | VTC Information Technology And Design Academy
+- International **Certificate in Digital Marketing** at HubSpot Academy
 
 ---
 

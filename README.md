@@ -53,9 +53,8 @@ Interdisciplinary professional with 1+ years of experience in:
 
 ### Contact
 
-📧 minhthaopham230104@gmail.com  
+📧 **Email:** [minhthaopham230104@gmail.com](mailto:minhthaopham230104@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/mtpe-minhthaopham](https://www.linkedin.com/in/mtpe-minhthaopham)  
+🌐 **Portfolio:** [phamminhthao.vercel.app](https://phamminhthao.vercel.app/)  
 
-[LinkedIn Profile](https://www.linkedin.com/in/mtpe-minhthaopham)
-
-[Portfolio](https://phamminhthao.vercel.app/)
 ---

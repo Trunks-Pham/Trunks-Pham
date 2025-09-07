@@ -44,7 +44,7 @@ Interdisciplinary professional with 1+ years of experience in:
 - Fractional Chief of Staff (Brand Marketing & CEO Support) | F&B Growth Solutions @ Lợp Lá Cà phê
 - Director – Strategy & Innovation @ Golden Toad – Leading enterprise-wide digital strategy
 - DevOps & System Engineer @ TEL4VN ICT Training Center/Pitel
-- Created scalable platforms using SpringBoot, PostgreSQL, and Docker  
+- Created scalable platforms using NextJS, TypeScript, Golang, PostgreSQL/MySQL, and Docker  
 - Media Project Lead at VTC Academy  
 - Collaborated with Timo Digital Bank and BlueBioTechpreneurs EU  
 - Scholarship recipient and Outstanding Student of the Year

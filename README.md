@@ -42,7 +42,8 @@ Interdisciplinary professional with 1+ years of experience in:
 ### Career Highlights
 
 - Fractional Chief of Staff (Brand Marketing & CEO Support) | F&B Growth Solutions @ Lợp Lá Cà phê
-- VP / Deputy General Director @ Golden Toad – Leading enterprise-wide digital strategy  
+- Director – Strategy & Innovation @ Golden Toad – Leading enterprise-wide digital strategy
+- DevOps & System Engineer @ TEL4VN ICT Training Center/Pitel
 - Created scalable platforms using SpringBoot, PostgreSQL, and Docker  
 - Media Project Lead at VTC Academy  
 - Collaborated with Timo Digital Bank and BlueBioTechpreneurs EU  
@@ -54,5 +55,5 @@ Interdisciplinary professional with 1+ years of experience in:
 
 📧 minhthaopham230104@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/mtpe-minhthaopham)
-
+🔗 [Portfolio](https://phamminhthao.vercel.app/)
 ---

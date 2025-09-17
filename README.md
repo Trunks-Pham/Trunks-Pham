@@ -2,7 +2,7 @@
 ="center">Hi, I'm  Pham Minh Thao "Trunks Pham"</h1>
 
 <h3 align="center">
-  <strong>Multidisciplinary Engineer @ DevOps, System Design & App Development
+  <strong>Multidisciplinary Engineer @ DevOps, AI, Mobile, FE
 </h3>
 
 ---

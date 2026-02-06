@@ -39,7 +39,7 @@ Interdisciplinary professional with 1+ years of experience in:
 ---
 
 ### Career Highlights
-- CEO & Co-Founder at IndraSyns - Technology and Innovation
+- CEO & Co-Founder at Golden Toad Education
 - Academic Specialist at AVS Education Group 
 - Fractional Chief of Staff (Brand Marketing & CEO Support) | F&B Growth Solutions @ Lợp Lá Cà phê
 - Director – Strategy & Innovation @ Golden Toad – Leading enterprise-wide digital strategy

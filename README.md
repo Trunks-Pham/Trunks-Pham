@@ -39,10 +39,9 @@ Interdisciplinary professional with 1+ years of experience in:
 ---
 
 ### Career Highlights
-- CEO & Co-Founder at Golden Toad Education
+- Managing Director - Strategy & Transformation at Golden Toad Education | Innovation Pathway Program
 - Academic Specialist at AVS Education Group 
 - Fractional Chief of Staff (Brand Marketing & CEO Support) | F&B Growth Solutions @ Lợp Lá Cà phê
-- Director – Strategy & Innovation @ Golden Toad – Leading enterprise-wide digital strategy
 - DevOps & System Engineer @ TEL4VN ICT Training Center/Pitel
 - Created scalable platforms using NextJS, TypeScript, Golang, PostgreSQL/MySQL, and Docker  
 - Media Project Lead at VTC Academy  

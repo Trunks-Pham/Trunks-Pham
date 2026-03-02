@@ -1,9 +1,15 @@
-<h1 align
-="center">Hi, I'm  Pham Minh Thao "Trunks Pham"</h1>
+<h1 align="center">Hi, I'm Pham Minh Thao "Trunks Pham"</h1>
 
 <h3 align="center">
-  <strong>Engineer @ DevOps, AI, Mobile, FE
+  <strong>Software & Infrastructure Architect</strong>
 </h3>
+
+<p align="center">
+  <code style="color: #2ecc71;">DevOps</code> • 
+  <code style="color: #3498db;">AI Integration</code> • 
+  <code style="color: #9b59b6;">Full-stack</code> • 
+  <code style="color: #e67e22;">Mobile Development</code>
+</p>
 
 ---
 

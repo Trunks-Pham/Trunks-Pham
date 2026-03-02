@@ -19,7 +19,7 @@ Interdisciplinary professional with 1+ years of experience in:
 - Digital Strategy & Technology-Driven Campaigns 
 - DevOps & Automation (CI/CD, Jenkins, Docker, GitHub Actions)  
 - Frontend & Backend Development (Web Applications & APIs)
-- Mobile App Development (iOS & Android, Cross-Platform Frameworks)
+- Mobile App Development (Android, Cross-Platform Frameworks)
 
 ### Education & Qualifications
 

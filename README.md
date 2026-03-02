@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pham Minh Thao "Trunks Pham"</h1>
+<h2 align="center">Hi, I'm Pham Minh Thao </h2>
 
 <h3 align="center">
   <strong>Software & Infrastructure Architect</strong>

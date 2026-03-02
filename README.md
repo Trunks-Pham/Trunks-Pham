@@ -18,7 +18,7 @@ Interdisciplinary professional with 1+ years of experience in:
 ### Education & Qualifications
 
 - Pursuing **Bachelor’s Degree in International Business** at University of Economics Ho Chi Minh City | UEH  
-- Holder of **Diploma in Software Engineering**, VTC Academy | VTC Information Technology And Design Academy
+- Holder of **Diploma in Software Engineering**, North Island College | NIC
 - International **Certificate in Digital Marketing** at HubSpot Academy
 
 ---
@@ -44,7 +44,6 @@ Interdisciplinary professional with 1+ years of experience in:
 - Fractional Chief of Staff (Brand Marketing & CEO Support) | F&B Growth Solutions @ Lợp Lá Cà phê
 - DevOps & System Engineer @ TEL4VN ICT Training Center/Pitel
 - Created scalable platforms using NextJS, TypeScript, Golang, PostgreSQL/MySQL, and Docker  
-- Media Project Lead at VTC Academy  
 - Collaborated with Timo Digital Bank and BlueBioTechpreneurs EU  
 - Scholarship recipient and Outstanding Student of the Year
 
